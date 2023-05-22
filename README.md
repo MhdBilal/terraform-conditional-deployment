@@ -1,4 +1,4 @@
-# tf-vm_in3csps
+# terraform-conditional-deployment
 
 ## Demonstration of Terraform Modules; Deploy a VM in AWS, Azure and GCP at once
 
