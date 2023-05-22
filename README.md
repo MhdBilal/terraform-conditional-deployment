@@ -27,11 +27,6 @@ To deploy the EC2 Instance, run the following commands _in the repository root d
 terraform init
 terraform apply
 ```
-
-## Demonstration Video
-
-For a video that demonstrates this, checkout [Head in the Clouds, Episode 10](https://headintheclouds.site/episodes/episode10).
-
 ## Troubleshooting
 
 If you are having an issue, it is most likely a problem with your `terraform.tfvars` file.
