@@ -2,8 +2,7 @@
 
 ## Demonstration of Terraform Modules; Deploy a VM in AWS, Azure and GCP at once
 
-This repository is the terraform source code that accompanies [Head in the Clouds, Episode 10](https://headintheclouds.site/episodes/episode10). The purpose of the source code is to demonstrate how to use
-modules in Terraform.
+The purpose of the source code is to demonstrate how to use modules in Terraform.
 
 This repository includes three modules: "aws," "azure," and "gcp." Each module deploys a virtual
 machine in its respective cloud. Each module can be deployed in a standalone manner by following the
